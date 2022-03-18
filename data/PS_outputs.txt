@@ -1,0 +1,194 @@
+#####################################################################
+#  	Model	   	Mean value  | 	Min MNAE    | 	Realization number  
+#####################################################################
+
+MNAE-Combined-0.003 	mean:0.066 	min:0.041 	rlz#min:6
+MNAE-Combined-0.023 	mean:0.047 	min:0.031 	rlz#min:5
+MNAE-Combined-0.027 	mean:0.045 	min:0.034 	rlz#min:0
+MNAE-Combined-0.037 	mean:0.051 	min:0.027 	rlz#min:6
+MNAE-Combined-0.044 	mean:0.044 	min:0.032 	rlz#min:2
+MNAE-Combined-0.143 	mean:0.089 	min:0.050 	rlz#min:5
+MNAE-Combined-0.212 	mean:0.134 	min:0.072 	rlz#min:9
+MNAE-Combined-0.375 	mean:0.136 	min:0.096 	rlz#min:0
+MNAE-Combined-0.624 	mean:0.175 	min:0.131 	rlz#min:9
+MNAE-Combined-0.939 	mean:0.182 	min:0.101 	rlz#min:4
+MNAE-pl4_loss 		mean:0.069 	min:0.057 	rlz#min:0
+MNAE-pl3_loss 		mean:0.074 	min:0.060 	rlz#min:5
+MNAE-MNAE_2D 		mean:0.216 	min:0.109 	rlz#min:9
+MNAE-MNAE_1D 		mean:0.078 	min:0.051 	rlz#min:4
+
+
+#####################################################################
+All data
+#####################################################################
+
+DL-Combined-0.003 -- 
+MNAE Rlz-0:0.081
+MNAE Rlz-1:0.049
+MNAE Rlz-2:0.051
+MNAE Rlz-3:0.148
+MNAE Rlz-4:0.051
+MNAE Rlz-5:0.051
+MNAE Rlz-6:0.041
+MNAE Rlz-7:0.045
+MNAE Rlz-8:0.092
+MNAE Rlz-9:0.052
+MNAE mu:0.066, std:3.305e-02
+DL-Combined-0.023 -- 
+MNAE Rlz-0:0.032
+MNAE Rlz-1:0.033
+MNAE Rlz-2:0.038
+MNAE Rlz-3:0.042
+MNAE Rlz-4:0.045
+MNAE Rlz-5:0.031
+MNAE Rlz-6:0.036
+MNAE Rlz-7:0.112
+MNAE Rlz-8:0.042
+MNAE Rlz-9:0.056
+MNAE mu:0.047, std:2.415e-02
+DL-Combined-0.027 -- 
+MNAE Rlz-0:0.034
+MNAE Rlz-1:0.045
+MNAE Rlz-2:0.067
+MNAE Rlz-3:0.048
+MNAE Rlz-4:0.038
+MNAE Rlz-5:0.041
+MNAE Rlz-6:0.042
+MNAE Rlz-7:0.044
+MNAE Rlz-8:0.040
+MNAE Rlz-9:0.048
+MNAE mu:0.045, std:8.874e-03
+DL-Combined-0.037 -- 
+MNAE Rlz-0:0.029
+MNAE Rlz-1:0.055
+MNAE Rlz-2:0.041
+MNAE Rlz-3:0.051
+MNAE Rlz-4:0.033
+MNAE Rlz-5:0.126
+MNAE Rlz-6:0.027
+MNAE Rlz-7:0.051
+MNAE Rlz-8:0.049
+MNAE Rlz-9:0.045
+MNAE mu:0.051, std:2.819e-02
+DL-Combined-0.044 -- 
+MNAE Rlz-0:0.040
+MNAE Rlz-1:0.037
+MNAE Rlz-2:0.032
+MNAE Rlz-3:0.050
+MNAE Rlz-4:0.055
+MNAE Rlz-5:0.048
+MNAE Rlz-6:0.035
+MNAE Rlz-7:0.041
+MNAE Rlz-8:0.036
+MNAE Rlz-9:0.066
+MNAE mu:0.044, std:1.063e-02
+DL-Combined-0.143 -- 
+MNAE Rlz-0:0.105
+MNAE Rlz-1:0.089
+MNAE Rlz-2:0.080
+MNAE Rlz-3:0.094
+MNAE Rlz-4:0.098
+MNAE Rlz-5:0.050
+MNAE Rlz-6:0.094
+MNAE Rlz-7:0.102
+MNAE Rlz-8:0.087
+MNAE Rlz-9:0.096
+MNAE mu:0.089, std:1.566e-02
+DL-Combined-0.212 -- 
+MNAE Rlz-0:0.233
+MNAE Rlz-1:0.156
+MNAE Rlz-2:0.130
+MNAE Rlz-3:0.133
+MNAE Rlz-4:0.124
+MNAE Rlz-5:0.175
+MNAE Rlz-6:0.103
+MNAE Rlz-7:0.111
+MNAE Rlz-8:0.106
+MNAE Rlz-9:0.072
+MNAE mu:0.134, std:4.486e-02
+DL-Combined-0.375 -- 
+MNAE Rlz-0:0.096
+MNAE Rlz-1:0.137
+MNAE Rlz-2:0.150
+MNAE Rlz-3:0.156
+MNAE Rlz-4:0.159
+MNAE Rlz-5:0.112
+MNAE Rlz-6:0.103
+MNAE Rlz-7:0.157
+MNAE Rlz-8:0.165
+MNAE Rlz-9:0.126
+MNAE mu:0.136, std:2.530e-02
+DL-Combined-0.624 -- 
+MNAE Rlz-0:0.179
+MNAE Rlz-1:0.204
+MNAE Rlz-2:0.173
+MNAE Rlz-3:0.165
+MNAE Rlz-4:0.171
+MNAE Rlz-5:0.177
+MNAE Rlz-6:0.177
+MNAE Rlz-7:0.186
+MNAE Rlz-8:0.189
+MNAE Rlz-9:0.131
+MNAE mu:0.175, std:1.895e-02
+DL-Combined-0.939 -- 
+MNAE Rlz-0:0.146
+MNAE Rlz-1:0.169
+MNAE Rlz-2:0.189
+MNAE Rlz-3:0.165
+MNAE Rlz-4:0.101
+MNAE Rlz-5:0.198
+MNAE Rlz-6:0.245
+MNAE Rlz-7:0.235
+MNAE Rlz-8:0.137
+MNAE Rlz-9:0.239
+MNAE mu:0.182, std:4.778e-02
+DL-pl4_loss -- 
+MNAE Rlz-0:0.057
+MNAE Rlz-1:0.062
+MNAE Rlz-2:0.062
+MNAE Rlz-3:0.058
+MNAE Rlz-4:0.091
+MNAE Rlz-5:0.059
+MNAE Rlz-6:0.100
+MNAE Rlz-7:0.070
+MNAE Rlz-8:0.070
+MNAE Rlz-9:0.063
+MNAE mu:0.069, std:1.466e-02
+DL-pl3_loss -- 
+MNAE Rlz-0:0.071
+MNAE Rlz-1:0.062
+MNAE Rlz-2:0.063
+MNAE Rlz-3:0.077
+MNAE Rlz-4:0.112
+MNAE Rlz-5:0.060
+MNAE Rlz-6:0.086
+MNAE Rlz-7:0.076
+MNAE Rlz-8:0.066
+MNAE Rlz-9:0.073
+MNAE mu:0.074, std:1.544e-02
+DL-MNAE_2D -- 
+MNAE Rlz-0:0.194
+MNAE Rlz-1:0.220
+MNAE Rlz-2:0.261
+MNAE Rlz-3:0.193
+MNAE Rlz-4:0.213
+MNAE Rlz-5:0.255
+MNAE Rlz-6:0.221
+MNAE Rlz-7:0.247
+MNAE Rlz-8:0.249
+MNAE Rlz-9:0.109
+MNAE mu:0.216, std:4.497e-02
+DL-MNAE_1D -- 
+MNAE Rlz-0:0.057
+MNAE Rlz-1:0.076
+MNAE Rlz-2:0.086
+MNAE Rlz-3:0.062
+MNAE Rlz-4:0.051
+MNAE Rlz-5:0.079
+MNAE Rlz-6:0.080
+MNAE Rlz-7:0.052
+MNAE Rlz-8:0.107
+MNAE Rlz-9:0.131
+MNAE mu:0.078, std:2.539e-02
+
+#####################################################################
