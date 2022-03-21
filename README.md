@@ -19,7 +19,7 @@ If you use the codes, we will be very grateful if you refer to this [paper]():
 
 ## Acknowledgments:
 
-This work was supported by the São Paulo Research Foundation ([FAPESP](http://www.fapesp.br/) grant 2021/12673-6) and by the National Council for Scientific and Technological Development ([CNPq](http://www.cnpq.br/)) and by the \textit{Coordenação de Aperfeiçoamento de Pessoal de Nível Superior ([CAPES](https://www.gov.br/capes/pt-br) - finance code 001)}. We would like to thank the contribution of our lab members and the [Instituto de Radiologia (inRad) do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo (FMUSP-HC)](http://www.hc.fm.usp.br) for providing the DBT images.
+This work was supported by the São Paulo Research Foundation ([FAPESP](http://www.fapesp.br/) grant 2021/12673-6) and by the National Council for Scientific and Technological Development ([CNPq](http://www.cnpq.br/)) and by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior ([CAPES](https://www.gov.br/capes/pt-br) - finance code 001). We would like to thank the contribution of our lab members and the [Instituto de Radiologia (inRad) do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo (FMUSP-HC)](http://www.hc.fm.usp.br) for providing the DBT images.
 
 
 ---
